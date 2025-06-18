@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://string-flow-painter-verse.vercel.app/
+**URL**: https://algorithmvisualizer-snowy.vercel.app/
 
 ## How can I edit this code?
 
